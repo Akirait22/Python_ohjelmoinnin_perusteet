@@ -1,6 +1,6 @@
 import math
 
-Leiviskat = float(input("Anna leiviskät: "))
+Leiviskat = float(input("Anna leiviskat: "))
 Naulat = float(input("Anna naulat: "))
 Luodit = float(input("Anna luodit: "))
 
